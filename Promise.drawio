@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T14:20:24.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.4" etag="kS7xhHOIgX02eEYprOLL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T14:59:15.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g0zP2-PS8ynt4q4hJpMs" version="24.0.4" type="github">
   <diagram name="第 1 页" id="SGukPir_UWberAC0a7HO">
-    <mxGraphModel>
+    <mxGraphModel dx="1388" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9LQ5-nQEe8H-HD1S8oPk-1" target="9LQ5-nQEe8H-HD1S8oPk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-1" value="new Promise((resolve,reject)=&amp;gt;{&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;resolve(&#39;value&#39;)//Promise对象状态改为fulfilled,value作为值传给其随后的then(val)方法&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;//reject(&#39;error&#39;)//Promise对象状态改为rejected,error作为参数传给catch(err)方法&lt;br&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;}&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="301" y="60" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9LQ5-nQEe8H-HD1S8oPk-3" target="9LQ5-nQEe8H-HD1S8oPk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-21" value="&lt;b&gt;reject或结构体本身有错&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9LQ5-nQEe8H-HD1S8oPk-5">
+          <mxGeometry x="-0.2871" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-3" value="常见方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="511" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-4" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 14px;&quot;&gt;.catch()方法&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#6666ff&quot;&gt;何时触发？&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.结构体中reject()改变promise&lt;b&gt;对象状态&lt;/b&gt;&lt;/div&gt;&lt;div&gt;2.Lev1结构体本身有错误如console.log(a)【a未定义】&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="291" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-6" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 14px;&quot;&gt;.then()方法&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#6666ff&quot;&gt;何时触发？&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1.结构体中resolve()改变promise&lt;b&gt;对象状态&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9999ff&quot;&gt;有Promise链！why?&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;code style=&quot;&quot;&gt;then()&lt;/code&gt; 方法中返回一个新的 Promise对象，状态为&lt;b&gt;pending&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="240" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9LQ5-nQEe8H-HD1S8oPk-3" target="9LQ5-nQEe8H-HD1S8oPk-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="601" y="181" as="sourcePoint" />
+            <mxPoint x="786.75" y="230.7199999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-20" value="&lt;b&gt;resolve&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9LQ5-nQEe8H-HD1S8oPk-8">
+          <mxGeometry x="-0.2428" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-9" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;结构体Lev1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="691" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LQ5-nQEe8H-HD1S8oPk-10" target="9LQ5-nQEe8H-HD1S8oPk-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="571" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-25" value="&lt;b&gt;return&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9LQ5-nQEe8H-HD1S8oPk-24">
+          <mxGeometry x="0.2721" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-10" value="&lt;span style=&quot;text-align: left;&quot;&gt;.then((res)=&amp;gt;{return ***&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;},(err)=&amp;gt;{})&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="350" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-11" value=".catch(error)=&amp;gt;{console.log(error)}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="291" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-12" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;Lev2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="411" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-13" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;Lev2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="861" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9LQ5-nQEe8H-HD1S8oPk-14" target="9LQ5-nQEe8H-HD1S8oPk-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;.then((res)=&amp;gt;{&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;},(err)=&amp;gt;{})&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="510" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-15" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;Lev3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="661" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-26" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rotation=-90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="366" y="295" width="50" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-27" value="&lt;div&gt;return语句将此promise对象的状态改为&lt;span style=&quot;background-color: initial;&quot;&gt;fulfilled&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;且return值作为参数传递给其随后的then()方法&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="236" y="440" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-28" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-30" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;何时触发？&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Lev2结构体本身有错误&lt;/span&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="861" y="460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.677;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;entryX=0.05;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;width=13.714285714285714;endSize=7.72;endWidth=10.448979591836734;" edge="1" parent="1" source="9LQ5-nQEe8H-HD1S8oPk-10" target="9LQ5-nQEe8H-HD1S8oPk-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="871" y="436" as="sourcePoint" />
+            <mxPoint x="941" y="422" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="831" y="420" />
+              <mxPoint x="861" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-32" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;何时触发？&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Lev3结构体本身有错误&lt;/span&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#6666ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="701" y="600" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQ5-nQEe8H-HD1S8oPk-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;entryX=0.05;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;width=13.714285714285714;endSize=7.72;endWidth=10.448979591836734;" edge="1" parent="1" target="9LQ5-nQEe8H-HD1S8oPk-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="631" y="540" as="sourcePoint" />
+            <mxPoint x="761" y="572" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="651" y="570" />
+              <mxPoint x="681" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
