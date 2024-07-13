@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T10:39:10.927Z" agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36" etag="2D8Dry5idKQJ7w4UebEB" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-13T05:36:18.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ItBMxcAN1h1LcFFoe01C" version="24.6.5" type="github" pages="2">
   <diagram name="第 1 页" id="wXLwuwE4Lhl9uQCfw4TU">
-    <mxGraphModel dx="1384" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1534" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kRgQP0m4F60DVzIqi6ll-3" value="表现层" style="swimlane;whiteSpace=wrap;html=1;direction=north;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="350" y="30" width="530" height="150" as="geometry">
+          <mxGeometry x="350" y="80" width="540" height="150" as="geometry">
             <mxRectangle x="360" y="80" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -13,68 +13,68 @@
           <mxGeometry x="35" y="19.09" width="480" height="71.81" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-40" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
-          <mxGeometry x="40" y="110" width="110" height="30" as="geometry" />
+          <mxGeometry x="40" y="110" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-41" value="ArcGIS Online" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
-          <mxGeometry x="280" y="110" width="110" height="30" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-41" value="Baidu API for JS" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
+          <mxGeometry x="260" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-42" value="Cesium" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
-          <mxGeometry x="160" y="110" width="110" height="30" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-42" value="ArcGIS API for JS" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
+          <mxGeometry x="140" y="110" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-43" value="......" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
-          <mxGeometry x="405" y="110" width="110" height="30" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-43" value="Echarts" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
+          <mxGeometry x="380" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kvF5S1Q2oSMqppfcO1Po-1" value="Cesium" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kRgQP0m4F60DVzIqi6ll-3">
+          <mxGeometry x="460" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-4" value="应用层" style="swimlane;whiteSpace=wrap;html=1;direction=north;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="350" y="200" width="530" height="170" as="geometry">
+          <mxGeometry x="350" y="244" width="540" height="170" as="geometry">
             <mxRectangle x="360" y="80" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-44" value="洪涝&lt;span style=&quot;background-color: initial;&quot;&gt;信息&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;展示：以地图故事形式展示城市洪涝灾害&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-44" value="数据采集与录入：采集古村古镇数据并将数据入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
           <mxGeometry x="40" y="5" width="270" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-45" value="洪涝&lt;span style=&quot;background-color: initial;&quot;&gt;建模：基于GIS与水文模型的城市雨洪建模&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-45" value="地图展示与查询：将古村古镇数据展示在地图上，且展示的数据支持按属性和按空间位置查询" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
           <mxGeometry x="40" y="60" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-46" value="洪涝&lt;span style=&quot;background-color: initial;&quot;&gt;可视化：以二三维一体化方式可视化洪涝结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-46" value="数据分析模块：对入库数据做统计分析和空间分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
           <mxGeometry x="40" y="120" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-47" value="多主体&lt;span style=&quot;background-color: initial;&quot;&gt;信息管理：管理不同主体（政府机关、专家、群众）信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
-          <mxGeometry x="320" y="15" width="190" height="65" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-47" value="数字化展示：将古村古镇的数字化虚拟场景和数字化文化遗产展示在Web页面，且支持用户交互体验" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
+          <mxGeometry x="330" y="15" width="190" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-48" value="面向多主体的城市洪涝模拟场景构建与应急预案策划" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
-          <mxGeometry x="320" y="90" width="190" height="65" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-48" value="用户与角色管理：提供灵活权限控制，面向多用户，不同用户具有不同角色，不同角色右不同权限" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
+          <mxGeometry x="330" y="95" width="190" height="65" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-5" value="服务层" style="swimlane;whiteSpace=wrap;html=1;direction=north;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="350" y="380" width="530" height="170" as="geometry">
+          <mxGeometry x="350" y="430" width="540" height="120" as="geometry">
             <mxRectangle x="360" y="80" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="50" y="10" width="170" height="150" as="geometry" />
+          <mxGeometry x="45" y="20" width="225" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="250" y="10" width="250" height="150" as="geometry" />
+          <mxGeometry x="310" y="20" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-33" value="&lt;b&gt;Web服务器&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="95" y="19" width="80" height="30" as="geometry" />
+          <mxGeometry x="117.5" y="25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-34" value="&lt;b&gt;GIS服务器&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="335" y="10" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-35" value="&lt;b&gt;ArcGIS Enterprise&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="260" y="40" width="230" height="110" as="geometry" />
+          <mxGeometry x="370" y="25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-37" value="ArcGIS Server" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="270" y="70" width="100" height="70" as="geometry" />
+          <mxGeometry x="320" y="60" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-38" value="Portal for ArcGIS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="380" y="70" width="100" height="70" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-38" value="GeoServer" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
+          <mxGeometry x="435" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-39" value="Spring-boot框架" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="70" y="75" width="130" height="40" as="geometry" />
+        <mxCell id="kvF5S1Q2oSMqppfcO1Po-4" value="Tomcat与SpringBoot框架" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="kRgQP0m4F60DVzIqi6ll-5">
+          <mxGeometry x="70" y="60" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-6" value="数据层" style="swimlane;whiteSpace=wrap;html=1;direction=north;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="350" y="560" width="530" height="200" as="geometry">
+          <mxGeometry x="350" y="560" width="540" height="160" as="geometry">
             <mxRectangle x="360" y="80" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -87,23 +87,14 @@
         <mxCell id="kRgQP0m4F60DVzIqi6ll-16" value="数据存储" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;dashPattern=8 8;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="380" y="10" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;国家地球系统科学数据中心&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-17" value="&lt;div&gt;传统村落网站&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="30" y="60" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-19" value="重庆市勘测院" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
-          <mxGeometry x="30" y="105" width="150" height="30" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-20" value="其他相关网站" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
+          <mxGeometry x="30" y="110" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-20" value="相关网站" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
-          <mxGeometry x="30" y="150" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-21" value="Geoscene Desktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
-          <mxGeometry x="190" y="85" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-22" value="常见Python库" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
-          <mxGeometry x="280" y="85" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-23" value="ArcPy" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
-          <mxGeometry x="280" y="125" width="80" height="30" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-21" value="ArcPy&lt;div&gt;Geopandas&lt;/div&gt;&lt;div&gt;GeoTools&lt;/div&gt;&lt;div&gt;等&lt;span style=&quot;background-color: initial;&quot;&gt;空间数据处理库&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
+          <mxGeometry x="200" y="70" width="65.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-24" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;数据库&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="380" y="60" width="130" height="50" as="geometry" />
@@ -117,8 +108,8 @@
         <mxCell id="kRgQP0m4F60DVzIqi6ll-27" value="&lt;div&gt;本地文件存储&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="380" y="120" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-28" value="&lt;div&gt;云存储&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
-          <mxGeometry x="380" y="160" width="130" height="30" as="geometry" />
+        <mxCell id="kvF5S1Q2oSMqppfcO1Po-3" value="Pandas&lt;div&gt;Numpy&lt;/div&gt;&lt;div&gt;Matplotlib&lt;/div&gt;&lt;div&gt;等数据处理python库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kRgQP0m4F60DVzIqi6ll-6">
+          <mxGeometry x="280" y="70" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
