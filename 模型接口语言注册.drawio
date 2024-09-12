@@ -544,7 +544,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CCCyJe0rxMRqsG86qbRe" name="第 6 页">
-    <mxGraphModel dx="1728" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -555,7 +555,7 @@
           <mxGeometry x="337.5" y="588" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="822" width="456" height="72" as="geometry" />
+          <mxGeometry x="134" y="822" width="456" height="68" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MIL描述的&lt;br&gt;A模型/算子&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="148" y="559" width="110" height="50" as="geometry" />
@@ -588,22 +588,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="137" y="941" width="450" height="60" as="geometry" />
+          <mxGeometry x="135" y="921.66" width="450" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-14" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="97" y="554" width="20" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="NiwaucOkAnS96JS9Fp87-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;算&lt;/div&gt;&lt;div&gt;子&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="67" y="570" width="40" height="100" as="geometry" />
+        <mxCell id="NiwaucOkAnS96JS9Fp87-15" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;算&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;子&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;注&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;册&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;层&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="67" y="572" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-16" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="97" y="808" width="20" height="292" as="geometry" />
         </mxCell>
-        <mxCell id="NiwaucOkAnS96JS9Fp87-17" value="&lt;div&gt;算&lt;/div&gt;&lt;div&gt;子&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;一&lt;/div&gt;&lt;div&gt;调&lt;/div&gt;&lt;div&gt;用&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="67" y="889" width="40" height="100" as="geometry" />
+        <mxCell id="NiwaucOkAnS96JS9Fp87-17" value="&lt;div&gt;&lt;b&gt;算&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;子&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;统&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;一&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;调&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;用&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="67" y="890" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="134" y="1033" width="456" height="60" as="geometry" />
+          <mxGeometry x="137" y="1013.66" width="456" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-19" value="注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="266" y="572" width="60" height="30" as="geometry" />
@@ -638,7 +638,7 @@
         <mxCell id="NiwaucOkAnS96JS9Fp87-29" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="97" y="700" width="20" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="NiwaucOkAnS96JS9Fp87-30" value="&lt;div&gt;聚&lt;/div&gt;&lt;div&gt;合&lt;/div&gt;&lt;div&gt;模&lt;/div&gt;&lt;div&gt;板&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="NiwaucOkAnS96JS9Fp87-30" value="&lt;div&gt;&lt;b&gt;聚&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;合&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;模&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;板&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;层&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="67" y="702.5" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-31" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=17.41;direction=south;notch=0;" parent="1" vertex="1">
@@ -663,67 +663,67 @@
           <mxGeometry x="137" y="843" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-37" value="接收与传递算子元数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="244.5" y="836" width="135" height="49" as="geometry" />
+          <mxGeometry x="244.5" y="831.5" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-38" value="调用框架中台层" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="427" y="836" width="135" height="49" as="geometry" />
+          <mxGeometry x="425.5" y="831.5" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=17.41;direction=south;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="379.5" y="890" width="27.25" height="39" as="geometry" />
+          <mxGeometry x="379.5" y="882" width="27.25" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="NiwaucOkAnS96JS9Fp87-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.175;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.175;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NiwaucOkAnS96JS9Fp87-13" target="NiwaucOkAnS96JS9Fp87-13" edge="1">
+        <mxCell id="NiwaucOkAnS96JS9Fp87-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.182;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.181;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NiwaucOkAnS96JS9Fp87-13" target="NiwaucOkAnS96JS9Fp87-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="223" y="1000" as="sourcePoint" />
-            <mxPoint x="222.71" y="941" as="targetPoint" />
+            <mxPoint x="221" y="980.66" as="sourcePoint" />
+            <mxPoint x="220.71" y="921.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-42" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;中台层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="141" y="956" width="70" height="30" as="geometry" />
+          <mxGeometry x="139" y="936.66" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-43" value="算子元数据接收、解释与传递" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="233" y="946.5" width="101" height="49" as="geometry" />
+          <mxGeometry x="231" y="927.16" width="101" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-44" value="&lt;div&gt;调用具体类别的封装算子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="344.88" y="946.5" width="138.12" height="49" as="geometry" />
+          <mxGeometry x="342.88" y="927.16" width="138.12" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0.175;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.175;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="214.5" y="1093" as="sourcePoint" />
-            <mxPoint x="214.5" y="1033" as="targetPoint" />
+            <mxPoint x="217.5" y="1073.66" as="sourcePoint" />
+            <mxPoint x="217.5" y="1013.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-46" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;具体算子&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;封装层&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="137" y="1048" width="70" height="30" as="geometry" />
+          <mxGeometry x="140" y="1028.66" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-47" value=".exe类型&lt;div&gt;模型算子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1038.5" width="80" height="49" as="geometry" />
+          <mxGeometry x="227" y="1019.1600000000001" width="80" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-48" value=".dll类型&lt;div&gt;模型算子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="313.25" y="1038.5" width="84.25" height="49" as="geometry" />
+          <mxGeometry x="326" y="1019.1600000000001" width="84.25" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-49" value=".py类型&lt;div&gt;模型算子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="412.5" y="1038.5" width="84.5" height="49" as="geometry" />
+          <mxGeometry x="425.5" y="1019.1600000000001" width="84.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-50" value="......" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="518" y="1038.5" width="59" height="49" as="geometry" />
+          <mxGeometry x="527" y="1019.1600000000001" width="59" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=17.41;direction=south;notch=0;" parent="1" vertex="1">
-          <mxGeometry x="389.75" y="998" width="28.25" height="38" as="geometry" />
+          <mxGeometry x="392.75" y="978.66" width="28.25" height="38" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-52" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;统一调用&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="324.5" y="894" width="65.25" height="27" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-53" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.53;dx=17.41;direction=south;notch=0;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="422.5" y="998" width="26.5" height="36" as="geometry" />
+          <mxGeometry x="425.5" y="978.66" width="26.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-54" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;返回结果&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="452" y="1003.5" width="61" height="27" as="geometry" />
+          <mxGeometry x="455" y="984.16" width="61" height="27" as="geometry" />
         </mxCell>
         <mxCell id="NiwaucOkAnS96JS9Fp87-55" value="接收模型&lt;div&gt;运行结果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="497" y="946.5" width="83" height="49" as="geometry" />
+          <mxGeometry x="495" y="927.16" width="83" height="49" as="geometry" />
         </mxCell>
         <mxCell id="55kxqcffpBkchH_j7YKj-1" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;调用算子&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="1003.5" width="61" height="27" as="geometry" />
+          <mxGeometry x="340" y="984.16" width="61" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
