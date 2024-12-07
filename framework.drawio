@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="第 1 页" id="wXLwuwE4Lhl9uQCfw4TU">
-    <mxGraphModel dx="1430" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
         <mxCell id="kRgQP0m4F60DVzIqi6ll-40" value="Vue.js" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
           <mxGeometry x="40" y="110" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-42" value="supermap iclient3d for cesium" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-42" value="SuperMap iClient3D for Cesium" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
           <mxGeometry x="140" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-43" value="Echarts" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-3" vertex="1">
@@ -32,16 +32,16 @@
             <mxRectangle x="360" y="80" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; 灾害模型&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; 共享服务&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="kRgQP0m4F60DVzIqi6ll-4">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-24" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; 灾害模型&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; 共享服务&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
           <mxGeometry x="55" y="10" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-54" value="" style="group" vertex="1" connectable="0" parent="kRgQP0m4F60DVzIqi6ll-4">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-54" value="" style="group" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1" connectable="0">
           <mxGeometry x="50" y="86" width="450" height="144" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; 仿真&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; 模拟&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
           <mxGeometry x="5" width="440" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-5" value="" style="group" vertex="1" connectable="0" parent="XCWznlyuz7QSUtL0Z_ZJ-54">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-5" value="" style="group" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1" connectable="0">
           <mxGeometry y="60" width="450" height="84" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-46" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-5" vertex="1">
@@ -86,19 +86,19 @@
         <mxCell id="eJwGluuKI7X5AFav2yRl-29" value="预警&lt;div&gt;预报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-5" vertex="1">
           <mxGeometry x="60" y="38.96666666666666" width="40" height="26.599999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-25" value="&lt;font color=&quot;#ff0000&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;内涝&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="XCWznlyuz7QSUtL0Z_ZJ-54">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-25" value="&lt;font color=&quot;#ff0000&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;内涝&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
           <mxGeometry x="70" y="14" width="60" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-46" value="&lt;font color=&quot;#0d0d0d&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;地面塌陷&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="XCWznlyuz7QSUtL0Z_ZJ-54">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-46" value="&lt;font color=&quot;#0d0d0d&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;地面塌陷&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
           <mxGeometry x="160" y="14" width="60" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-47" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#0d0d0d&quot;&gt;&lt;b&gt;团雾&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="XCWznlyuz7QSUtL0Z_ZJ-54">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-47" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#0d0d0d&quot;&gt;&lt;b&gt;团雾&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
           <mxGeometry x="250" y="14" width="60" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-48" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#0d0d0d&quot;&gt;&lt;b&gt;火灾&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="XCWznlyuz7QSUtL0Z_ZJ-54">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-48" value="&lt;font face=&quot;微软雅黑&quot; color=&quot;#0d0d0d&quot;&gt;&lt;b&gt;火灾&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
           <mxGeometry x="340" y="14" width="60" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-55" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;b&gt;面向多主体的灾害模型共享服务&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="kRgQP0m4F60DVzIqi6ll-4">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-55" value="&lt;div&gt;&lt;font face=&quot;微软雅黑&quot;&gt;&lt;b&gt;多主体协作的灾害模型集成与调用&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-4" vertex="1">
           <mxGeometry x="140" y="26" width="310" height="28" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-5" value="服务层" style="swimlane;whiteSpace=wrap;html=1;direction=north;startSize=23;" parent="1" vertex="1">
@@ -118,11 +118,11 @@
         <mxCell id="kRgQP0m4F60DVzIqi6ll-34" value="&lt;b&gt;GIS&lt;/b&gt;&lt;div&gt;&lt;b&gt;服&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;务&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;器&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
           <mxGeometry x="290" y="44.38" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kRgQP0m4F60DVzIqi6ll-37" value="Supermap Server/云服务器" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="350" y="60" width="170" height="20" as="geometry" />
+        <mxCell id="kRgQP0m4F60DVzIqi6ll-37" value="SuperMap iServer/Online" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
+          <mxGeometry x="350" y="24.38" width="170" height="25.62" as="geometry" />
         </mxCell>
         <mxCell id="kRgQP0m4F60DVzIqi6ll-38" value="GeoServer" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
-          <mxGeometry x="350" y="30" width="170" height="25" as="geometry" />
+          <mxGeometry x="350" y="60" width="170" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kvF5S1Q2oSMqppfcO1Po-4" value="Tomcat与SpringBoot框架" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-5" vertex="1">
           <mxGeometry x="80" y="37.970000000000006" width="170" height="30" as="geometry" />
@@ -162,13 +162,13 @@
         <mxCell id="kvF5S1Q2oSMqppfcO1Po-3" value="Pandas&lt;div&gt;Numpy&lt;/div&gt;&lt;div&gt;Matplotlib&lt;/div&gt;&lt;div&gt;等数据处理python库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="280" y="50" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eJwGluuKI7X5AFav2yRl-1" value="Supermap Desktop" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
+        <mxCell id="eJwGluuKI7X5AFav2yRl-1" value="SuperMap iDesktopX" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="200" y="130" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eJwGluuKI7X5AFav2yRl-3" value="勘测院、水科院" style="rounded=0;whiteSpace=wrap;html=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="30" y="90" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-49" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="kRgQP0m4F60DVzIqi6ll-6">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-49" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="kRgQP0m4F60DVzIqi6ll-6" vertex="1">
           <mxGeometry x="450" y="80" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eJwGluuKI7X5AFav2yRl-34" value="用户层" style="swimlane;whiteSpace=wrap;html=1;direction=north;startSize=23;" parent="1" vertex="1">
