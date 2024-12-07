@@ -86,7 +86,7 @@
         <mxCell id="eJwGluuKI7X5AFav2yRl-29" value="预警&lt;div&gt;预报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-5" vertex="1">
           <mxGeometry x="60" y="38.96666666666666" width="40" height="26.599999999999998" as="geometry" />
         </mxCell>
-        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-25" value="&lt;font color=&quot;#ff0000&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;内涝&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
+        <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-25" value="&lt;font color=&quot;#ffffff&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;内涝&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
           <mxGeometry x="70" y="14" width="60" height="28" as="geometry" />
         </mxCell>
         <mxCell id="XCWznlyuz7QSUtL0Z_ZJ-46" value="&lt;font color=&quot;#0d0d0d&quot; face=&quot;微软雅黑&quot;&gt;&lt;b style=&quot;&quot;&gt;地面塌陷&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="XCWznlyuz7QSUtL0Z_ZJ-54" vertex="1">
