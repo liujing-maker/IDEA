@@ -157,6 +157,9 @@
         <mxCell id="dZY9HUZP33_P041iUTWh-34" value="副作用管理(effectTag)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-520" y="570" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dZY9HUZP33_P041iUTWh-35" value="updateQueue.shared.pending={action:App}" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-185" y="312" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
